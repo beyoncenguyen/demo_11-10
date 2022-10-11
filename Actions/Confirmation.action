@@ -1,0 +1,7 @@
+{
+	"_Type": "Action.Type.Message",
+	"Message": "Bạn muốn rời app hiện tai không",
+	"Title": "Thông báo",
+	"OKCaption": "OK",
+	"CancelCaption": "CANCLE"
+}
